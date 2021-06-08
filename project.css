@@ -471,6 +471,27 @@ padding: 20px;
 
 /* CONTACT US PAGE*/
 
+.contactUsHeader {
+  background-color: #8cb4eb;
+  margin: 0;
+  border: 0;
+  padding: 70px;
+}
+
+.contactUsTitle {
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+
+.contactUsText {
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  color: white;
+  size: 20px;
+}
+
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
   width: 100%; /* Full width */
